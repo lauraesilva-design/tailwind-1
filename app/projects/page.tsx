@@ -1,4 +1,5 @@
-import Card from "../../compunts/card";
+import Card from "../../components/card";
+
 
 
 export default function
@@ -13,7 +14,6 @@ export default function
 
     </main>
 }
-
 
 
 
